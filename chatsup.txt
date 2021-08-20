@@ -3,5 +3,5 @@
 3. Checking the features of the file
 4.Developing the functionalities
 5.New new features added into it
-6.Adding audio features
+6.Adding audio features and new
 7.Adding video features
